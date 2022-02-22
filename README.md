@@ -55,5 +55,5 @@ If you use the code and/or data of this repository, please reference our work: S
 3. *Liu, J., Xia, M., Wang, X., Liao, X., and He, Y. (2020). The spatial organization of the chronnectome associates with cortical hierarchy and transcriptional profiles in the human brain. Neuroimage 222, 117296. 10.1016/j.neuroimage.2020.117296.*
 4. *Tian, Y., Margulies, D.S., Breakspear, M., and Zalesky, A. (2020). Topographic organization of the human subcortex unveiled with functional connectivity gradients. Nat Neurosci 23, 1421-1432. 10.1038/s41593- 020-00711-6.*
 5. *Xia, M., Wang, J., and He, Y. (2013). BrainNet Viewer: a network visualization tool for human brain connectomics. PLoS One 8, e68910. 10.1371/journal.pone.0068910.*
-6. *Satterthwaite T.D., Shinohara R.T., Wolf D.H, et al. (2014) Impact of puberty on the evolution of cerebral perfusion during adolescence. Proceedings of the National Academy of Sciences 111, 8643-8648. 10.1073/pnas.1400178111* al., 2021
+6. *Satterthwaite T.D., Shinohara R.T., Wolf D.H, et al. (2014) Impact of puberty on the evolution of cerebral perfusion during adolescence. Proceedings of the National Academy of Sciences 111, 8643-8648. 10.1073/pnas.1400178111*
 
