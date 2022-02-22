@@ -1,4 +1,4 @@
-## Structural_Insight-into-Individual-Functional-Variability
+## Structural-Insight-into-Individual-Functional-Variability
 
 This repository provides code and intermediate data that support the findings of the article entitled "Structural insight into the individual variability architecture of the functional brain connectome" by Sun et al., 2022 https://doi.org/10.1101/2022.02.16.480803
 
