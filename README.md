@@ -1,9 +1,8 @@
 ## Structural-Insight-into-Individual-Functional-Variability
 
-This repository provides code and intermediate data that support the findings of the article entitled "Structural insight into the individual variability architecture of the functional brain connectome" by Sun et al., 2022 https://doi.org/10.1101/2022.02.16.480803
+This repository provides code and intermediate data that support the findings of the article entitled "Structural insight into the individual variability architecture of the functional brain connectome" by Sun et al., 2022, NeuroImage, [https://www.sciencedirect.com/science/article/pii/S1053811922005067](https://www.sciencedirect.com/science/article/pii/S1053811922005067)
 
-
-If you use the code and/or data of this repository, please reference our work: Sun L, Zhao T, Liang X, et al. Structural insight into the individual variability architecture of the functional brain connectome[J]. bioRxiv, 2022.
+If you use the code and/or data of this repository, please reference our work: Sun L, Liang X, Duan D, et al. Structural insight into the individual variability architecture of the functional brain connectome[J]. NeuroImage, 2022: 119387.
 
 
 ### Data
